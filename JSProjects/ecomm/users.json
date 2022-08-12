@@ -1,0 +1,40 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "test1@test.com",
+    "password": "password",
+    "id": "25f1a775"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "password",
+    "id": "600b6ce5"
+  },
+  {
+    "email": "test5@test.com",
+    "password": "f7b5896c32eb052ad239bfc98cbc8d5adcb0cc99ebf40a4ac8dde963bfb13893a0ec9f0c1a10d7b02c43fe87224ad08a0f4019b1ee94df02d09ff15855f73b4c.a5b9a5771ec7b570",
+    "id": "d33c574a"
+  },
+  {
+    "email": "test10@test.com",
+    "password": "80d93eb2f4df29b8e5232f7c185f13e6a52d5948c318b7f92c4575c392d8a8fc3ecd2c125e226c251d3b599646a97f8e086744ffb436ac8d5ab370a6b52e8327.ade5f7b620276a2c",
+    "id": "7061d7c0"
+  },
+  {
+    "email": "dgra109@aucklanduni.ac.nz",
+    "password": "9713cade3ce5c8fed3901fba1b541193f949e0eb8ef98b59e27621225d7d5b7bae39ee092b51db2430538032add9c21fd39b47cb82377c5afded0efd3c5001ab.e372b7ac97fa002d",
+    "id": "bb743acd"
+  },
+  {
+    "email": "devingrantmiles@gmail.com",
+    "password": "b6b9c0c267fe8494469e88fd8d353207b4b322e1645a105d229c581df58d6f5916f67f855c7942068e84d0b83342102f6bad04c910f47de4f218e7695a0363b9.053be35c263456bb",
+    "id": "a9b2e8c2"
+  },
+  {
+    "email": "test15@test.com",
+    "password": "5711eccd798109a11d2db4dbb13dc82387d282367119d253f05248deb082431514b5a29f3cd42a76104679997044dbae4cc4aa425fa3fd00066201ec83f01935.7463b4a973853d7e",
+    "id": "e992c9be"
+  }
+]
