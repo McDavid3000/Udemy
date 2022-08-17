@@ -65,13 +65,13 @@ describe('Campaigns', () => {
     });
 
     it('allows a manager to make a payment request', async () => {
-        await campaign.methods.createRequest('buy buttholes', '100', accounts[1]).send({
+        await campaign.methods.createRequest('buy x', '100', accounts[1]).send({
             from: accounts[0],
             gas: '1000000'
         });
 
         const request = await campaign.methods.requests(0).call();
-        assert.equal('buy buttholes', request.description);
+        assert.equal('buy x', request.description);
     });
 
     it('processes requests', async () => {
@@ -80,7 +80,7 @@ describe('Campaigns', () => {
             value: web3.utils.toWei('10', 'ether')
         });
 
-        await campaign.methods.createRequest("buy poos", web3.utils.toWei('5', 'ether'), accounts[1])
+        await campaign.methods.createRequest("buy y", web3.utils.toWei('5', 'ether'), accounts[1])
             .send({
                 from: accounts[0],
                 gas: '1000000'
