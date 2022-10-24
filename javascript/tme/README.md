@@ -1,4 +1,4 @@
-#This is a customer testing framework
+# This is a custom testing framework
 
 To use:
 
